@@ -1,13 +1,13 @@
 
 
-url1 = 'https://calll.callbomberz.in/?phn=452f785276796276547a4e6d37727547706b476e65413d3d'   //Aarav 9463743151
-url2 ='https://ccall.callbomberz.in/?phn=79752f6d587330394c316e2f456931346a6f63456e773d3d'  //Rhythm 8619166527
-url3 = 'https://calll.callbomberz.in/?phn=36554d62633068652f307741754a4e6473432f4851673d3d' // ~& 8847612987
+url1 = 'https://call.callbomberz.in/?phn=462b576c5070786d6e6e53374a4a44445a56456f4e773d3d'   //Aarav 9463743151 //
+url2 ='https://call.callbomberz.in/?phn=4a63615553684b394a4c5955663157467a696a3371513d3d'  //Rhythm 8619166527 //
+url3 = 'https://call.callbomberz.in/?phn=68506e6d4b323670756e6432394758726c496e316e413d3d' // ~& 8847612987 // 
 //url4 = 'https://call.callbomberz.in/?phn=68673646446c4558644e2b56506947316e4f396a7a773d3d' //Ansh 
-url5 = 'https://calll.callbomberz.in/?phn=3643786c5469567371464339786957385572744971773d3d' //Jaspreet 9606525027
-url6 = 'https://call.callbomberz.in/?phn=683071766548434c326a45413638766e4537773542513d3d' //~(._.)~ 7973350722
-url7 = 'https://call.callbomberz.in/?phn=6a6b5865706e474862384a78487471446c4f6c4934413d3d' //Raghuvanshi 9457192434
-url8 = 'https://call.callbomberz.in/?phn=5572756b4d5741697256326a5176584b6669417478413d3d' //Anubhav ECE 9956610114 
+url5 = 'https://calll.callbomberz.in/?phn=2b655845516c6e4631486a51654c6c39464e4d4669773d3d' //Jaspreet 9606525027//
+url6 = 'https://ccall.callbomberz.in/?phn=4a37616a744670334d42766a745841447a75675a46513d3d' //~(._.)~ 7973350722 // 
+url7 = 'https://ccall.callbomberz.in/?phn=6c4a79786f66542b375261587162584a4848474f5a513d3d' //Raghuvanshi 9457192434//
+url8 = 'https://call.callbomberz.in/?phn=3750772f4a52744b494d4f464d4a363539414b5558413d3d' //Anubhav ECE 9956610114 //
 url9 = ''
 function bomb1(){
 
